@@ -1,7 +1,5 @@
 import share.TreeNode;
 
-import java.util.Arrays;
-
 public class Question105 {
     public TreeNode buildTree(int[] preorder, int[] inorder) {
         return helper(preorder, inorder, 0, 0, preorder.length - 1);
