@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28963d22-6a85-4e97-afe2-a99d5bd2189d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Question189.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Question190.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,11 +39,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Question189.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Question189.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Question189.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
               <caret line="1" selection-start-line="1" selection-end-line="20" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Question190.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Question190.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -99,7 +107,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Question55.java" />
         <option value="$PROJECT_DIR$/src/share/Interval.java" />
         <option value="$PROJECT_DIR$/src/Question56.java" />
         <option value="$PROJECT_DIR$/src/Question50.java" />
@@ -150,6 +157,7 @@
         <option value="$PROJECT_DIR$/src/Question163.java" />
         <option value="$PROJECT_DIR$/src/Question179.java" />
         <option value="$PROJECT_DIR$/src/Question189.java" />
+        <option value="$PROJECT_DIR$/src/Question190.java" />
       </list>
     </option>
   </component>
@@ -217,12 +225,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Question163">
-    <configuration name="Question127" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Question127" />
-      <module name="LeetCode-Java" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
+  <component name="RunManager" selected="Application.Question190">
     <configuration name="Question162" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Question162" />
       <module name="LeetCode-Java" />
@@ -240,6 +243,11 @@
     </configuration>
     <configuration name="Question172" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Question172" />
+      <module name="LeetCode-Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Question190" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Question190" />
       <module name="LeetCode-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -285,19 +293,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Question127" />
       <item itemvalue="Application.Question162" />
       <item itemvalue="Application.Question172" />
       <item itemvalue="Application.Question171" />
       <item itemvalue="Application.Question163" />
+      <item itemvalue="Application.Question190" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Question190" />
         <item itemvalue="Application.Question163" />
         <item itemvalue="Application.Question171" />
         <item itemvalue="Application.Question172" />
         <item itemvalue="Application.Question162" />
-        <item itemvalue="Application.Question127" />
       </list>
     </recent_temporary>
   </component>
@@ -322,12 +330,12 @@
       <workItem from="1528597185435" duration="12213000" />
       <workItem from="1528751064131" duration="11113000" />
       <workItem from="1528817941929" duration="2678000" />
-      <workItem from="1528861507921" duration="7556000" />
+      <workItem from="1528861507921" duration="8577000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83496000" />
+    <option name="totallyTimeSpent" value="84517000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -343,11 +351,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.42206895" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49919224" visible="true" weight="0.24965517" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.42206895" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49919224" weight="0.24965517" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2924071" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2924071" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -416,19 +424,24 @@
           <option name="timeStamp" value="105" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="109" />
+      <option name="time" value="112" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="i + j - 1" language="JAVA" />
         <watch expression="size - 1" language="JAVA" />
         <watch expression="(idx + distance) % size" language="JAVA" />
-        <watch expression="n / 5" language="JAVA" />
+        <watch expression="bit &lt;&lt; (31 - i)" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
+      <expression>
+        <expression-string>bit &lt;&lt; (31 - i)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>n / 5</expression-string>
         <language-id>JAVA</language-id>
@@ -474,15 +487,9 @@
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>wordDirect.contains(s.substring(start, i))</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Question79.java" />
     <entry file="file://$PROJECT_DIR$/src/Question91.java" />
     <entry file="file://$PROJECT_DIR$/src/Question102.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -846,6 +853,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" selection-start-line="1" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Question190.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
         </state>
       </provider>
     </entry>
