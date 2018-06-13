@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28963d22-6a85-4e97-afe2-a99d5bd2189d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Question204.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Question206.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,11 +49,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Question204.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Question204.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Question204.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
               <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Question206.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Question206.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
@@ -99,7 +108,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Question70.java" />
         <option value="$PROJECT_DIR$/src/Question73.java" />
         <option value="$PROJECT_DIR$/src/Question98.java" />
         <option value="$PROJECT_DIR$/src/Question94.java" />
@@ -150,6 +158,7 @@
         <option value="$PROJECT_DIR$/src/Question200.java" />
         <option value="$PROJECT_DIR$/src/Question202.java" />
         <option value="$PROJECT_DIR$/src/Question204.java" />
+        <option value="$PROJECT_DIR$/src/Question206.java" />
       </list>
     </option>
   </component>
@@ -322,12 +331,12 @@
       <workItem from="1528597185435" duration="12213000" />
       <workItem from="1528751064131" duration="11113000" />
       <workItem from="1528817941929" duration="2678000" />
-      <workItem from="1528861507921" duration="12233000" />
+      <workItem from="1528861507921" duration="13285000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88173000" />
+    <option name="totallyTimeSpent" value="89225000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -482,13 +491,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Collection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="502">
-          <caret line="366" column="12" selection-start-line="366" selection-start-column="12" selection-end-line="366" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Question103.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="83">
@@ -856,6 +858,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Question206.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
