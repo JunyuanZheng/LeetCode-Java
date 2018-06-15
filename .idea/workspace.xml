@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28963d22-6a85-4e97-afe2-a99d5bd2189d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Question234.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question207.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Question207.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,11 +36,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Question234.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Question234.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Question234.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+            <state relative-caret-position="420">
+              <caret line="28" column="25" lean-forward="true" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Question207.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Question207.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="377">
+              <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -196,8 +204,8 @@
         <option value="$PROJECT_DIR$/src/Question238.java" />
         <option value="$PROJECT_DIR$/src/Question230.java" />
         <option value="$PROJECT_DIR$/src/Question227.java" />
-        <option value="$PROJECT_DIR$/src/Question207.java" />
         <option value="$PROJECT_DIR$/src/Question234.java" />
+        <option value="$PROJECT_DIR$/src/Question207.java" />
       </list>
     </option>
   </component>
@@ -265,7 +273,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Question215">
+  <component name="RunManager" selected="Application.Question207">
     <configuration name="Question163" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Question163" />
       <module name="LeetCode-Java" />
@@ -276,13 +284,13 @@
       <module name="LeetCode-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="Question172" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Question172" />
+    <configuration name="Question190" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Question190" />
       <module name="LeetCode-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="Question190" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Question190" />
+    <configuration name="Question207" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Question207" />
       <module name="LeetCode-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -333,19 +341,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Question172" />
       <item itemvalue="Application.Question171" />
       <item itemvalue="Application.Question163" />
       <item itemvalue="Application.Question190" />
       <item itemvalue="Application.Question215" />
+      <item itemvalue="Application.Question207" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Question207" />
         <item itemvalue="Application.Question215" />
         <item itemvalue="Application.Question190" />
         <item itemvalue="Application.Question163" />
         <item itemvalue="Application.Question171" />
-        <item itemvalue="Application.Question172" />
       </list>
     </recent_temporary>
   </component>
@@ -372,12 +380,12 @@
       <workItem from="1528817941929" duration="2678000" />
       <workItem from="1528861507921" duration="13326000" />
       <workItem from="1529015170341" duration="23000" />
-      <workItem from="1529015237146" duration="7535000" />
+      <workItem from="1529015237146" duration="9421000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96824000" />
+    <option name="totallyTimeSpent" value="98710000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -394,10 +402,10 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.42206895" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49919224" visible="true" weight="0.24965517" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49919224" visible="true" weight="0.24965517" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30210015" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30210015" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -488,7 +496,7 @@
           <option name="timeStamp" value="116" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="117" />
+      <option name="time" value="123" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -906,13 +914,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Question207.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Question206.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -922,8 +923,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Question234.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        <state relative-caret-position="420">
+          <caret line="28" column="25" lean-forward="true" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Question207.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
         </state>
       </provider>
     </entry>
