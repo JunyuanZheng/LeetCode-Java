@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28963d22-6a85-4e97-afe2-a99d5bd2189d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Question251.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Question240.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,7 +18,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Question251.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Question251.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Question251.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -28,6 +27,15 @@
                 <element signature="e#433#434#0" expanded="true" />
                 <element signature="e#498#499#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Question240.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Question240.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -73,7 +81,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Question105.java" />
         <option value="$PROJECT_DIR$/src/Question121.java" />
         <option value="$PROJECT_DIR$/src/Question125.java" />
         <option value="$PROJECT_DIR$/src/Question136.java" />
@@ -124,6 +131,7 @@
         <option value="$PROJECT_DIR$/src/Question287.java" />
         <option value="$PROJECT_DIR$/src/Question279.java" />
         <option value="$PROJECT_DIR$/src/Question251.java" />
+        <option value="$PROJECT_DIR$/src/Question240.java" />
       </list>
     </option>
   </component>
@@ -186,12 +194,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Question251">
-    <configuration name="Question163" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Question163" />
-      <module name="LeetCode-Java" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
+  <component name="RunManager" selected="Application.Question240">
     <configuration name="Question190" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Question190" />
       <module name="LeetCode-Java" />
@@ -204,6 +207,11 @@
     </configuration>
     <configuration name="Question215" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Question215" />
+      <module name="LeetCode-Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Question240" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Question240" />
       <module name="LeetCode-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -254,19 +262,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Question163" />
       <item itemvalue="Application.Question190" />
       <item itemvalue="Application.Question215" />
       <item itemvalue="Application.Question207" />
       <item itemvalue="Application.Question251" />
+      <item itemvalue="Application.Question240" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Question240" />
         <item itemvalue="Application.Question251" />
         <item itemvalue="Application.Question207" />
         <item itemvalue="Application.Question215" />
         <item itemvalue="Application.Question190" />
-        <item itemvalue="Application.Question163" />
       </list>
     </recent_temporary>
   </component>
@@ -293,12 +301,12 @@
       <workItem from="1528817941929" duration="2678000" />
       <workItem from="1528861507921" duration="13326000" />
       <workItem from="1529015170341" duration="23000" />
-      <workItem from="1529015237146" duration="18449000" />
+      <workItem from="1529015237146" duration="19416000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="107738000" />
+    <option name="totallyTimeSpent" value="108705000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -392,6 +400,18 @@
           <properties />
           <option name="timeStamp" value="114" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Question240.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Question240.java</url>
+          <line>4</line>
+          <properties />
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Question237.java</url>
           <line>3</line>
@@ -409,7 +429,7 @@
           <option name="timeStamp" value="116" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="124" />
+      <option name="time" value="126" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -475,7 +495,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Question138.java" />
     <entry file="file://$PROJECT_DIR$/src/Question122.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -846,6 +865,13 @@
             <element signature="e#433#434#0" expanded="true" />
             <element signature="e#498#499#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Question240.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
         </state>
       </provider>
     </entry>
